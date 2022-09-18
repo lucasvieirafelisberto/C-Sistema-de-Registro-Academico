@@ -19,5 +19,3 @@ o    Inserir um elemento na fila;
 o    Remover um elemento da fila;
 o    Esvaziar a fila;
 o    Encerrar o programa.
-
-git remote add origin git@github.com:lucasvieirafelisberto/C-Sistema-de-Registro-Academico.git
